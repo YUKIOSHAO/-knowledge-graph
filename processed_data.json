@@ -1,0 +1,3229 @@
+{
+  "nodes": [
+    {
+      "id": "drug_1",
+      "type": "药品",
+      "label": "阿立哌唑口服溶液"
+    },
+    {
+      "id": "drug_2",
+      "type": "药品",
+      "label": "硫酸阿托品注射液"
+    },
+    {
+      "id": "drug_3",
+      "type": "药品",
+      "label": "★注射用阿昔洛韦"
+    },
+    {
+      "id": "drug_4",
+      "type": "药品",
+      "label": "盐酸胺碘酮注射液"
+    },
+    {
+      "id": "drug_5",
+      "type": "药品",
+      "label": "▲奥美拉唑碳酸氢钠胶囊"
+    },
+    {
+      "id": "drug_6",
+      "type": "药品",
+      "label": "▲奥美沙坦酯氨氯地平片"
+    },
+    {
+      "id": "drug_7",
+      "type": "药品",
+      "label": "▲奥美沙坦酯氢氯噻嗪片"
+    },
+    {
+      "id": "drug_8",
+      "type": "药品",
+      "label": "★胞磷胆碱钠注射液"
+    },
+    {
+      "id": "drug_9",
+      "type": "药品",
+      "label": "丙泊酚乳状注射液"
+    },
+    {
+      "id": "drug_10",
+      "type": "药品",
+      "label": "地夸磷索钠滴眼液"
+    },
+    {
+      "id": "drug_11",
+      "type": "药品",
+      "label": "盐酸多巴胺注射液"
+    },
+    {
+      "id": "drug_12",
+      "type": "药品",
+      "label": "伏格列波糖分散片"
+    },
+    {
+      "id": "drug_13",
+      "type": "药品",
+      "label": "氟马西尼注射液"
+    },
+    {
+      "id": "drug_14",
+      "type": "药品",
+      "label": "氟维司群注射液"
+    },
+    {
+      "id": "drug_15",
+      "type": "药品",
+      "label": "★甘油果糖氯化钠注射液"
+    },
+    {
+      "id": "drug_16",
+      "type": "药品",
+      "label": "枸橼酸西地那非口崩片"
+    },
+    {
+      "id": "drug_17",
+      "type": "药品",
+      "label": "卡贝缩宫素注射液"
+    },
+    {
+      "id": "drug_18",
+      "type": "药品",
+      "label": "拉考沙胺口服溶液"
+    },
+    {
+      "id": "drug_19",
+      "type": "药品",
+      "label": "来那度胺胶囊"
+    },
+    {
+      "id": "drug_20",
+      "type": "药品",
+      "label": "★硫酸镁注射液"
+    },
+    {
+      "id": "drug_21",
+      "type": "药品",
+      "label": "盐酸帕罗西汀肠溶缓释片"
+    },
+    {
+      "id": "drug_22",
+      "type": "药品",
+      "label": "★葡萄糖酸钙氯化钠注射液"
+    },
+    {
+      "id": "drug_23",
+      "type": "药品",
+      "label": "赛洛多辛胶囊"
+    },
+    {
+      "id": "drug_24",
+      "type": "药品",
+      "label": "缩宫素注射液"
+    },
+    {
+      "id": "drug_25",
+      "type": "药品",
+      "label": "碳酸镧咀嚼片"
+    },
+    {
+      "id": "drug_26",
+      "type": "药品",
+      "label": "注射用特利加压素"
+    },
+    {
+      "id": "drug_27",
+      "type": "药品",
+      "label": "盐酸托莫西汀胶囊"
+    },
+    {
+      "id": "drug_28",
+      "type": "药品",
+      "label": "★盐酸乌拉地尔注射液"
+    },
+    {
+      "id": "drug_29",
+      "type": "药品",
+      "label": "盐酸托莫西汀口服溶液"
+    },
+    {
+      "id": "drug_30",
+      "type": "药品",
+      "label": "盐酸左沙丁胺醇雾化吸入溶液"
+    },
+    {
+      "id": "drug_31",
+      "type": "药品",
+      "label": "盐酸伊伐布雷定片"
+    },
+    {
+      "id": "drug_32",
+      "type": "药品",
+      "label": "乙酰半胱氨酸颗粒"
+    },
+    {
+      "id": "drug_34",
+      "type": "药品",
+      "label": "阿奇霉素干混悬剂"
+    },
+    {
+      "id": "drug_35",
+      "type": "药品",
+      "label": "地塞米松磷酸钠注射液"
+    },
+    {
+      "id": "drug_36",
+      "type": "药品",
+      "label": "注射用磷酸特地唑胺"
+    },
+    {
+      "id": "drug_37",
+      "type": "药品",
+      "label": "注射用盐酸头孢替安"
+    },
+    {
+      "id": "drug_38",
+      "type": "药品",
+      "label": "西他沙星片"
+    },
+    {
+      "id": "drug_39",
+      "type": "药品",
+      "label": "艾司奥美拉唑镁肠溶干混悬剂"
+    },
+    {
+      "id": "drug_40",
+      "type": "药品",
+      "label": "★吡拉西坦注射液"
+    },
+    {
+      "id": "drug_41",
+      "type": "药品",
+      "label": "注射用醋酸卡泊芬净"
+    },
+    {
+      "id": "drug_42",
+      "type": "药品",
+      "label": "雷贝拉唑钠肠溶片"
+    },
+    {
+      "id": "company_山东朗诺制药有限公司",
+      "type": "公司",
+      "label": "山东朗诺制药有限公司",
+      "specifications": "50ml:50mg*每瓶50ml，每盒1瓶",
+      "price": "¥6.23",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_岳阳新华达制药有限公司",
+      "type": "公司",
+      "label": "岳阳新华达制药有限公司",
+      "specifications": "150ml:150mg*1瓶/盒",
+      "price": "¥15.8",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_万特制药",
+      "type": "公司",
+      "label": "万特制药",
+      "specifications": "60ml:60mg*60ml/瓶x1瓶/盒",
+      "price": "¥8.28",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_常州四药制药有限公司",
+      "type": "公司",
+      "label": "常州四药制药有限公司",
+      "specifications": "150ml:150mg*1瓶/盒",
+      "price": "¥16.8",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_上海上药中西制药有限公司",
+      "type": "公司",
+      "label": "上海上药中西制药有限公司",
+      "specifications": "150ml:150mg*1瓶/盒",
+      "price": "¥21.29",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_成都康弘药业集团股份有限公司",
+      "type": "公司",
+      "label": "成都康弘药业集团股份有限公司",
+      "specifications": "50ml:50mg*1瓶/盒",
+      "price": "¥15.99",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_河南润弘制药股份有限公司",
+      "type": "公司",
+      "label": "河南润弘制药股份有限公司",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥3.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_天方药业有限公司",
+      "type": "公司",
+      "label": "天方药业有限公司",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥5.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_成都倍特药业股份有限公司",
+      "type": "公司",
+      "label": "成都倍特药业股份有限公司",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥5.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_杭州民生药业股份有限公司",
+      "type": "公司",
+      "label": "杭州民生药业股份有限公司",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥6.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_北京京丰制药集团有限公司",
+      "type": "公司",
+      "label": "北京京丰制药集团有限公司",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥6.9",
+      "form": "注射液"
+    },
+    {
+      "id": "company_国药集团国瑞药业有限公司",
+      "type": "公司",
+      "label": "国药集团国瑞药业有限公司",
+      "specifications": "1ml:0.5mg*5支/盒",
+      "price": "¥3.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖北兴华制药有限公司",
+      "type": "公司",
+      "label": "湖北兴华制药有限公司",
+      "specifications": "2ml:1mg*10支/盒",
+      "price": "¥18.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_嘉实",
+      "type": "公司",
+      "label": "嘉实",
+      "specifications": "1ml:0.5mg*10支/盒",
+      "price": "¥11.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_广州一品红制药有限公司",
+      "type": "公司",
+      "label": "广州一品红制药有限公司",
+      "specifications": "0.25g*10支/盒",
+      "price": "¥8.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖北长联杜勒制药有限公司",
+      "type": "公司",
+      "label": "湖北长联杜勒制药有限公司",
+      "specifications": "0.25g*10瓶/盒",
+      "price": "¥10.8",
+      "form": "冻干粉针剂"
+    },
+    {
+      "id": "company_武汉华龙生物制药有限公司",
+      "type": "公司",
+      "label": "武汉华龙生物制药有限公司",
+      "specifications": "0.25g*10瓶/盒",
+      "price": "¥12.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_国药集团容生制药有限公司",
+      "type": "公司",
+      "label": "国药集团容生制药有限公司",
+      "specifications": "0.25g*10瓶/盒",
+      "price": "¥14.1",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东方明药业集团股份有限公司",
+      "type": "公司",
+      "label": "山东方明药业集团股份有限公司",
+      "specifications": "3ml:150mg*6支/盒",
+      "price": "¥12.78",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_上海旭东海普药业有限公司",
+      "type": "公司",
+      "label": "上海旭东海普药业有限公司",
+      "specifications": "3ml:150mg*6支/盒",
+      "price": "¥20.16",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_杭州和泽坤元药业有限公司",
+      "type": "公司",
+      "label": "杭州和泽坤元药业有限公司",
+      "specifications": "3ml:150mg*5支/盒",
+      "price": "¥29.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东北大高科华泰制药有限公司",
+      "type": "公司",
+      "label": "山东北大高科华泰制药有限公司",
+      "specifications": "3ml:150mg*10瓶/盒",
+      "price": "¥71.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_鲁南贝特制药有限公司",
+      "type": "公司",
+      "label": "鲁南贝特制药有限公司",
+      "specifications": "奥美拉唑20mg与碳酸氢钠1100mg*14粒\n/瓶",
+      "price": "¥4.4",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_厦门恩成制药有限公司",
+      "type": "公司",
+      "label": "厦门恩成制药有限公司",
+      "specifications": "奥美拉唑20mg与碳酸氢钠1100mg*14粒\n/瓶",
+      "price": "¥16.1",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_浙江花园药业有限公司",
+      "type": "公司",
+      "label": "浙江花园药业有限公司",
+      "specifications": "奥美拉唑20mg与碳酸氢钠1100mg*30粒\n/瓶x1瓶/盒",
+      "price": "¥38.42",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_北京百奥药业有限责任公司",
+      "type": "公司",
+      "label": "北京百奥药业有限责任公司",
+      "specifications": "奥美拉唑40mg与碳酸氢钠1100mg*14粒\n/瓶",
+      "price": "¥20.85",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_重庆华森制药股份有限公司",
+      "type": "公司",
+      "label": "重庆华森制药股份有限公司",
+      "specifications": "奥美拉唑20mg与碳酸氢钠1100mg*14粒\n/瓶",
+      "price": "¥20.57",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_国药集团致君",
+      "type": "公司",
+      "label": "国药集团致君",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*7片/板x4\n板/盒",
+      "price": "¥7.19",
+      "form": "片剂"
+    },
+    {
+      "id": "company_安庆回音必制药股份有限公司",
+      "type": "公司",
+      "label": "安庆回音必制药股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*7片/板，2\n板/盒",
+      "price": "¥4.66",
+      "form": "片剂"
+    },
+    {
+      "id": "company_江苏诺泰澳赛诺生物制药股份有限公司",
+      "type": "公司",
+      "label": "江苏诺泰澳赛诺生物制药股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*7片/板×4\n板/盒",
+      "price": "¥9.24",
+      "form": "片剂"
+    },
+    {
+      "id": "company_江苏万高药业股份有限公司",
+      "type": "公司",
+      "label": "江苏万高药业股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*7片/板×4\n板/袋×1袋/盒",
+      "price": "¥13.44",
+      "form": "片剂"
+    },
+    {
+      "id": "company_扬子江药业集团上海海尼药业有限公司",
+      "type": "公司",
+      "label": "扬子江药业集团上海海尼药业有限公司",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计 ）*30片/瓶\n×1瓶/盒",
+      "price": "¥15.3",
+      "form": "片剂"
+    },
+    {
+      "id": "company_南京正大天晴制药有限公司",
+      "type": "公司",
+      "label": "南京正大天晴制药有限公司",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*7片/板*4\n板/盒",
+      "price": "¥17.92",
+      "form": "片剂"
+    },
+    {
+      "id": "company_Aurobindo_Pharma_Limited",
+      "type": "公司",
+      "label": "Aurobindo Pharma Limited",
+      "specifications": "每片含奥美沙坦酯20mg和苯磺酸氨氯\n地平5mg（以氨氯地平计）*10片/板*3\n板/盒",
+      "price": "¥20.64",
+      "form": "片剂"
+    },
+    {
+      "id": "company_宁波美舒医药科技有限公司",
+      "type": "公司",
+      "label": "宁波美舒医药科技有限公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*14片/板X2板/袋，1袋/盒",
+      "price": "¥15.68",
+      "form": "片剂"
+    },
+    {
+      "id": "company_浙江华海药业股份有限公司",
+      "type": "公司",
+      "label": "浙江华海药业股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*28片/盒",
+      "price": "¥18.2",
+      "form": "片剂"
+    },
+    {
+      "id": "company_上海现代制药股份有限公司",
+      "type": "公司",
+      "label": "上海现代制药股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*7片/板/盒",
+      "price": "¥4.89",
+      "form": "片剂"
+    },
+    {
+      "id": "company_华润赛科药业有限责任公司",
+      "type": "公司",
+      "label": "华润赛科药业有限责任公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*7片/板×3板/盒",
+      "price": "¥16.38",
+      "form": "片剂"
+    },
+    {
+      "id": "company_北京元延医药科技股份有限公司",
+      "type": "公司",
+      "label": "北京元延医药科技股份有限公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*7片/板，4板/盒",
+      "price": "¥22.31",
+      "form": "片剂"
+    },
+    {
+      "id": "company_浙江诺得药业有限公司",
+      "type": "公司",
+      "label": "浙江诺得药业有限公司",
+      "specifications": "每片含奥美沙坦酯20mg与氢氯噻嗪\n12.5mg*14片/板✖2板/袋✖1袋/盒",
+      "price": "¥22.52",
+      "form": "片剂"
+    },
+    {
+      "id": "company_湖北津药药业股份有限公司",
+      "type": "公司",
+      "label": "湖北津药药业股份有限公司",
+      "specifications": "2ml:0.25g*10支/盒",
+      "price": "¥6.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_华润双鹤利民药业",
+      "type": "公司",
+      "label": "华润双鹤利民药业",
+      "specifications": "2ml:0.25g*10支/盒",
+      "price": "¥6.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_北京金城泰尔制药有限公司",
+      "type": "公司",
+      "label": "北京金城泰尔制药有限公司",
+      "specifications": "2ml:0.25g*10支/盒",
+      "price": "¥6.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东华鲁制药有限公司",
+      "type": "公司",
+      "label": "山东华鲁制药有限公司",
+      "specifications": "4ml:0.5g*50支/盒",
+      "price": "¥66.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖北科伦药业有限公司",
+      "type": "公司",
+      "label": "湖北科伦药业有限公司",
+      "specifications": "2ml:0.25g*5 支/袋，20支/盒",
+      "price": "¥15.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_广东赛烽医药科技有限公司",
+      "type": "公司",
+      "label": "广东赛烽医药科技有限公司",
+      "specifications": "4ml:0.5g*5支/盒",
+      "price": "¥7.2",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_亚宝药业集团股份有限公司",
+      "type": "公司",
+      "label": "亚宝药业集团股份有限公司",
+      "specifications": "2ml:0.25g*10支/盒",
+      "price": "¥8.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_海口天行健药物研究有限公司",
+      "type": "公司",
+      "label": "海口天行健药物研究有限公司",
+      "specifications": "4ml:0.5g*6支/盒",
+      "price": "¥9.96",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_石家庄四药有限公司",
+      "type": "公司",
+      "label": "石家庄四药有限公司",
+      "specifications": "4ml:0.5g*4ml/支，50支/盒",
+      "price": "¥84.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_济南辰欣医药科技有限公司",
+      "type": "公司",
+      "label": "济南辰欣医药科技有限公司",
+      "specifications": "4ml:0.5g*5支/盒",
+      "price": "¥8.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_四川国瑞药业有限责任公司",
+      "type": "公司",
+      "label": "四川国瑞药业有限责任公司",
+      "specifications": "50ml:0.5g*5瓶/盒",
+      "price": "¥49.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_广东嘉博制药有限公司",
+      "type": "公司",
+      "label": "广东嘉博制药有限公司",
+      "specifications": "20ml:0.2g*每盒5支",
+      "price": "¥19.65",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_广州新济药业科技有限公司",
+      "type": "公司",
+      "label": "广州新济药业科技有限公司",
+      "specifications": "10ml:0.1g*每盒5支",
+      "price": "¥11.55",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_西安力邦制药有限公司",
+      "type": "公司",
+      "label": "西安力邦制药有限公司",
+      "specifications": "20ml:0.2g*5支/盒",
+      "price": "¥19.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏盈科生物制药有限公司",
+      "type": "公司",
+      "label": "江苏盈科生物制药有限公司",
+      "specifications": "20ml:0.2g*20ml:0.2g/支×5支/盒",
+      "price": "¥23.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_辰欣药业股份有限公司",
+      "type": "公司",
+      "label": "辰欣药业股份有限公司",
+      "specifications": "20ml:0.2g*5支/盒",
+      "price": "¥26.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_扬子江药业集团有限公司",
+      "type": "公司",
+      "label": "扬子江药业集团有限公司",
+      "specifications": "3%（5ml:150mg ）*1瓶/盒",
+      "price": "¥9.2",
+      "form": "眼用制剂"
+    },
+    {
+      "id": "company_广东众生药业股份有限公司",
+      "type": "公司",
+      "label": "广东众生药业股份有限公司",
+      "specifications": "3%（5ml:150mg ）*5ml/瓶",
+      "price": "¥9.77",
+      "form": "眼用制剂"
+    },
+    {
+      "id": "company_齐鲁制药有限公司",
+      "type": "公司",
+      "label": "齐鲁制药有限公司",
+      "specifications": "3%（5ml:150mg ）*1瓶/盒",
+      "price": "¥13.0",
+      "form": "眼用制剂"
+    },
+    {
+      "id": "company_北京诺思兰德生物技术股份有限公司",
+      "type": "公司",
+      "label": "北京诺思兰德生物技术股份有限公司",
+      "specifications": "3%（5ml:150mg ）*1瓶/盒",
+      "price": "¥13.88",
+      "form": "眼用制剂"
+    },
+    {
+      "id": "company_沈阳兴齐眼药股份有限公司",
+      "type": "公司",
+      "label": "沈阳兴齐眼药股份有限公司",
+      "specifications": "3%（5ml:150mg ）*5ml×1支/盒",
+      "price": "¥15.5",
+      "form": "眼用制剂"
+    },
+    {
+      "id": "company_内蒙古白医制药股份有限公司",
+      "type": "公司",
+      "label": "内蒙古白医制药股份有限公司",
+      "specifications": "2.5ml:50mg*10支/盒",
+      "price": "¥12.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_远大医药",
+      "type": "公司",
+      "label": "远大医药",
+      "specifications": "5ml:200mg*2支/盒",
+      "price": "¥8.26",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖北神州华瑞医药有限公司",
+      "type": "公司",
+      "label": "湖北神州华瑞医药有限公司",
+      "specifications": "5ml:100mg*10支/盒",
+      "price": "¥29.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_扬州中宝药业股份有限公司",
+      "type": "公司",
+      "label": "扬州中宝药业股份有限公司",
+      "specifications": "5ml:200mg*10支/盒",
+      "price": "¥52.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_北京阜康仁生物制药科技有限公司",
+      "type": "公司",
+      "label": "北京阜康仁生物制药科技有限公司",
+      "specifications": "5ml:100mg*10支/盒",
+      "price": "¥31.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_安徽长江药业有限公司",
+      "type": "公司",
+      "label": "安徽长江药业有限公司",
+      "specifications": "2.5ml:50mg*5支/盒",
+      "price": "¥9.75",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_吉林振澳制药有限公司",
+      "type": "公司",
+      "label": "吉林振澳制药有限公司",
+      "specifications": "2.5ml:50mg*6支/盒",
+      "price": "¥11.82",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_弘和制药有限公司",
+      "type": "公司",
+      "label": "弘和制药有限公司",
+      "specifications": "5ml:200mg*5支/盒",
+      "price": "¥28.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_合肥亿帆生物制药有限公司",
+      "type": "公司",
+      "label": "合肥亿帆生物制药有限公司",
+      "specifications": "5ml:100mg*10支/盒",
+      "price": "¥37.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏晨牌药业集团股份有限公司",
+      "type": "公司",
+      "label": "江苏晨牌药业集团股份有限公司",
+      "specifications": "0.2mg*10片/板*3板/盒",
+      "price": "¥3.91",
+      "form": "片剂"
+    },
+    {
+      "id": "company_苏州中化药品工业有限公司",
+      "type": "公司",
+      "label": "苏州中化药品工业有限公司",
+      "specifications": "0.2mg*10片/板*6板/盒",
+      "price": "¥8.77",
+      "form": "片剂"
+    },
+    {
+      "id": "company_浙江海翔药业股份有限公司",
+      "type": "公司",
+      "label": "浙江海翔药业股份有限公司",
+      "specifications": "0.2mg*10片/板x3板/袋X1袋/盒",
+      "price": "¥4.5",
+      "form": "片剂"
+    },
+    {
+      "id": "company_北京双鹭药业股份有限公司",
+      "type": "公司",
+      "label": "北京双鹭药业股份有限公司",
+      "specifications": "0.2mg*10片*3板",
+      "price": "¥4.86",
+      "form": "片剂"
+    },
+    {
+      "id": "company_海南皇隆制药股份有限公司",
+      "type": "公司",
+      "label": "海南皇隆制药股份有限公司",
+      "specifications": "0.2mg*10片/板/袋*3袋/盒",
+      "price": "¥4.95",
+      "form": "片剂"
+    },
+    {
+      "id": "company_石家庄市华新药业有限责任公司",
+      "type": "公司",
+      "label": "石家庄市华新药业有限责任公司",
+      "specifications": "0.2mg*12片/板x5板/盒",
+      "price": "¥11.21",
+      "form": "片剂"
+    },
+    {
+      "id": "company_福安药业集团宁波天衡制药有限公司",
+      "type": "公司",
+      "label": "福安药业集团宁波天衡制药有限公司",
+      "specifications": "5ml:0.5mg*每盒5支",
+      "price": "¥24.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖南埃威格林医药科技有限公司",
+      "type": "公司",
+      "label": "湖南埃威格林医药科技有限公司",
+      "specifications": "5ml:0.5mg*5支/盒",
+      "price": "¥34.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_浙江仙琚制药股份有限公司",
+      "type": "公司",
+      "label": "浙江仙琚制药股份有限公司",
+      "specifications": "5ml:0.5mg*5ml:0.5mg/支*5支/盒",
+      "price": "¥44.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_宜昌人福药业有限责任公司",
+      "type": "公司",
+      "label": "宜昌人福药业有限责任公司",
+      "specifications": "5ml:0.5mg*5支/盒",
+      "price": "¥53.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_正大天晴药业集团股份有限公司",
+      "type": "公司",
+      "label": "正大天晴药业集团股份有限公司",
+      "specifications": "5ml:0.25g*2支/盒",
+      "price": "¥301.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏豪森药业集团有限公司",
+      "type": "公司",
+      "label": "江苏豪森药业集团有限公司",
+      "specifications": "5ml:0.25g*2支/盒",
+      "price": "¥305.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东新时代药业有限公司",
+      "type": "公司",
+      "label": "山东新时代药业有限公司",
+      "specifications": "5ml:0.25g*2支/盒",
+      "price": "¥331.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_杭州九源基因工程有限公司",
+      "type": "公司",
+      "label": "杭州九源基因工程有限公司",
+      "specifications": "5ml:0.25g*2支/盒",
+      "price": "¥532.72",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_四川汇宇制药股份有限公司",
+      "type": "公司",
+      "label": "四川汇宇制药股份有限公司",
+      "specifications": "5ml:0.25g*2支/盒",
+      "price": "¥571.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东齐都药业有限公司",
+      "type": "公司",
+      "label": "山东齐都药业有限公司",
+      "specifications": "250ml*1袋/袋",
+      "price": "¥16.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_海南倍特药业有限公司",
+      "type": "公司",
+      "label": "海南倍特药业有限公司",
+      "specifications": "250ml*1袋",
+      "price": "¥17.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_华仁药业",
+      "type": "公司",
+      "label": "华仁药业",
+      "specifications": "250ml*250ml/袋，40袋/箱",
+      "price": "¥722.4",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_华夏生生药业",
+      "type": "公司",
+      "label": "华夏生生药业",
+      "specifications": "250ml*250ml/袋.40袋/箱",
+      "price": "¥742.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_北京布霖生物科技有限公司",
+      "type": "公司",
+      "label": "北京布霖生物科技有限公司",
+      "specifications": "250ml*40袋/箱",
+      "price": "¥742.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_景时",
+      "type": "公司",
+      "label": "景时",
+      "specifications": "50mg*3片/板，2板/盒",
+      "price": "¥53.39",
+      "form": "片剂"
+    },
+    {
+      "id": "company_河北龙海药业有限公司",
+      "type": "公司",
+      "label": "河北龙海药业有限公司",
+      "specifications": "50mg*2片/板×1板/盒",
+      "price": "¥19.7",
+      "form": "片剂"
+    },
+    {
+      "id": "company_四川科伦药业股份有限公司",
+      "type": "公司",
+      "label": "四川科伦药业股份有限公司",
+      "specifications": "50mg*4片/板×1板/盒",
+      "price": "¥38.6",
+      "form": "片剂"
+    },
+    {
+      "id": "company_青岛黄海制药有限责任公司",
+      "type": "公司",
+      "label": "青岛黄海制药有限责任公司",
+      "specifications": "50mg*1片/板×1板/盒",
+      "price": "¥13.89",
+      "form": "片剂"
+    },
+    {
+      "id": "company_辉凌制药",
+      "type": "公司",
+      "label": "辉凌制药",
+      "specifications": "1ml:100μg*5支/盒",
+      "price": "¥115.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_苏州天马医药集团天吉生物制药有限公司",
+      "type": "公司",
+      "label": "苏州天马医药集团天吉生物制药有限公司",
+      "specifications": "1ml:100μg*1 瓶/盒",
+      "price": "¥35.61",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_南京康舟医药科技有限公司",
+      "type": "公司",
+      "label": "南京康舟医药科技有限公司",
+      "specifications": "1ml:100μg*10支/盒",
+      "price": "¥360.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_南京星银药业集团有限公司",
+      "type": "公司",
+      "label": "南京星银药业集团有限公司",
+      "specifications": "1ml:100μg*5瓶/盒",
+      "price": "¥185.95",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_深圳翰宇药业股份有限公司",
+      "type": "公司",
+      "label": "深圳翰宇药业股份有限公司",
+      "specifications": "1ml:100μg*1支/盒",
+      "price": "¥37.98",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_长春澜江医药科技有限公司",
+      "type": "公司",
+      "label": "长春澜江医药科技有限公司",
+      "specifications": "200ml:2g*200ml/瓶，1瓶/盒",
+      "price": "¥42.17",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_南京海纳医药科技股份有限公司",
+      "type": "公司",
+      "label": "南京海纳医药科技股份有限公司",
+      "specifications": "200ml:2g*1瓶/盒",
+      "price": "¥43.0",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_Hetero_Labs_Limited",
+      "type": "公司",
+      "label": "Hetero Labs Limited",
+      "specifications": "200ml:2g*每瓶200ml，1瓶/盒",
+      "price": "¥44.75",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_华润双鹤药业股份有限公司",
+      "type": "公司",
+      "label": "华润双鹤药业股份有限公司",
+      "specifications": "200ml:2g*200ml/瓶",
+      "price": "¥48.2",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_成都利尔药业有限公司",
+      "type": "公司",
+      "label": "成都利尔药业有限公司",
+      "specifications": "200ml:2g*200ml/瓶，1瓶/盒",
+      "price": "¥57.68",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_成都苑东生物制药股份有限公司",
+      "type": "公司",
+      "label": "成都苑东生物制药股份有限公司",
+      "specifications": "200ml:2g*200ml/瓶*1瓶/盒",
+      "price": "¥59.0",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_上海奥科达医药科技股份有限公司",
+      "type": "公司",
+      "label": "上海奥科达医药科技股份有限公司",
+      "specifications": "200ml:2g*200ml/瓶，1瓶/盒",
+      "price": "¥62.77",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_上海上药第一生化药业有限公司",
+      "type": "公司",
+      "label": "上海上药第一生化药业有限公司",
+      "specifications": "200ml:2g*200ml/瓶×1 瓶/盒",
+      "price": "¥70.0",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_常州制药厂有限公司",
+      "type": "公司",
+      "label": "常州制药厂有限公司",
+      "specifications": "25mg*7粒/板*3板/袋*1袋/盒",
+      "price": "¥132.52",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_四川美大康华康药业有限公司",
+      "type": "公司",
+      "label": "四川美大康华康药业有限公司",
+      "specifications": "25mg*7粒/板，3板/盒",
+      "price": "¥373.0",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_正大天晴药业集团南京顺欣制药有限公司",
+      "type": "公司",
+      "label": "正大天晴药业集团南京顺欣制药有限公司",
+      "specifications": "25mg*7粒/板×3板/盒",
+      "price": "¥388.0",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_Dr.Reddy`s_Laboratories_Limited",
+      "type": "公司",
+      "label": "Dr.Reddy`s Laboratories Limited",
+      "specifications": "10mg*28粒/瓶",
+      "price": "¥279.66",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_天津金耀药业有限公司",
+      "type": "公司",
+      "label": "天津金耀药业有限公司",
+      "specifications": "▲2ml:1g*10支/盒",
+      "price": "¥5.2",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_石家庄凯达生物工程有限公司",
+      "type": "公司",
+      "label": "石家庄凯达生物工程有限公司",
+      "specifications": "10ml:5g*10ml/支×10支/盒",
+      "price": "¥22.2",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖南科伦制药有限公司",
+      "type": "公司",
+      "label": "湖南科伦制药有限公司",
+      "specifications": "10ml:5g*50支/盒",
+      "price": "¥140.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_上海禾丰制药有限公司",
+      "type": "公司",
+      "label": "上海禾丰制药有限公司",
+      "specifications": "▲2ml:1g*10支/盒",
+      "price": "¥8.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏华阳制药有限公司",
+      "type": "公司",
+      "label": "江苏华阳制药有限公司",
+      "specifications": "10ml:5g*5支/盒",
+      "price": "¥14.75",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_北京福元医药股份有限公司",
+      "type": "公司",
+      "label": "北京福元医药股份有限公司",
+      "specifications": "▲25mg*10片/板*3板/盒",
+      "price": "¥27.52",
+      "form": "片剂"
+    },
+    {
+      "id": "company_华益泰康药业股份有限公司",
+      "type": "公司",
+      "label": "华益泰康药业股份有限公司",
+      "specifications": "37.5mg*10片/板× 3板/盒",
+      "price": "¥41.5",
+      "form": "片剂"
+    },
+    {
+      "id": "company_上海宣泰医药科技股份有限公司",
+      "type": "公司",
+      "label": "上海宣泰医药科技股份有限公司",
+      "specifications": "▲25mg*10片/盒",
+      "price": "¥14.06",
+      "form": "片剂"
+    },
+    {
+      "id": "company_深圳信立泰药业股份有限公司",
+      "type": "公司",
+      "label": "深圳信立泰药业股份有限公司",
+      "specifications": "▲25mg*30片/盒",
+      "price": "¥40.53",
+      "form": "片剂"
+    },
+    {
+      "id": "company_海南紫程众投生物科技有限公司",
+      "type": "公司",
+      "label": "海南紫程众投生物科技有限公司",
+      "specifications": "50ml：1g（以葡萄糖酸钙计 ）*50ml/\n袋",
+      "price": "¥3.18",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_河北天成药业股份有限公司",
+      "type": "公司",
+      "label": "河北天成药业股份有限公司",
+      "specifications": "10ml:1g*5支/盒",
+      "price": "¥3.2",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_仁合益康集团有限公司",
+      "type": "公司",
+      "label": "仁合益康集团有限公司",
+      "specifications": "10ml:1g*5支/盒",
+      "price": "¥3.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖北欣泽霏药业有限公司",
+      "type": "公司",
+      "label": "湖北欣泽霏药业有限公司",
+      "specifications": "10ml:1g*10支/盒",
+      "price": "¥7.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_上海汇伦江苏药业有限公司",
+      "type": "公司",
+      "label": "上海汇伦江苏药业有限公司",
+      "specifications": "4mg*28粒/瓶",
+      "price": "¥18.48",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_海南万玮制药有限公司",
+      "type": "公司",
+      "label": "海南万玮制药有限公司",
+      "specifications": "4mg*14粒/板×1板/盒",
+      "price": "¥11.33",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_康普药业股份有限公司",
+      "type": "公司",
+      "label": "康普药业股份有限公司",
+      "specifications": "1ml:10单位*10支/盒",
+      "price": "¥12.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏恒新药业有限公司",
+      "type": "公司",
+      "label": "江苏恒新药业有限公司",
+      "specifications": "1ml:10单位*10支/盒",
+      "price": "¥16.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_远大生命科学",
+      "type": "公司",
+      "label": "远大生命科学",
+      "specifications": "1ml:10单位*25瓶/盒",
+      "price": "¥49.25",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_南京新百药业有限公司",
+      "type": "公司",
+      "label": "南京新百药业有限公司",
+      "specifications": "1ml:10单位*10支/盒",
+      "price": "¥20.4",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_成都市海通药业有限公司",
+      "type": "公司",
+      "label": "成都市海通药业有限公司",
+      "specifications": "1ml:5单位*10支/盒",
+      "price": "¥13.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_南京恒道医药科技股份有限公司",
+      "type": "公司",
+      "label": "南京恒道医药科技股份有限公司",
+      "specifications": "1ml:10单位*10瓶/盒",
+      "price": "¥23.8",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_厦门紫旭医药科技有限公司",
+      "type": "公司",
+      "label": "厦门紫旭医药科技有限公司",
+      "specifications": "1ml:10单位*5瓶/盒",
+      "price": "¥12.15",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_再维药业",
+      "type": "公司",
+      "label": "再维药业",
+      "specifications": "1ml:10单位*10支/盒",
+      "price": "¥24.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_湖南明瑞制药股份有限公司",
+      "type": "公司",
+      "label": "湖南明瑞制药股份有限公司",
+      "specifications": "0.5g*10片/板*4板/盒",
+      "price": "¥113.2",
+      "form": "咀嚼片"
+    },
+    {
+      "id": "company_青神虹豪制药有限公司",
+      "type": "公司",
+      "label": "青神虹豪制药有限公司",
+      "specifications": "0.5g*20片/瓶/盒",
+      "price": "¥59.6",
+      "form": "片剂"
+    },
+    {
+      "id": "company_沈阳华泰药物研究有限公司",
+      "type": "公司",
+      "label": "沈阳华泰药物研究有限公司",
+      "specifications": "0.5g*6片/板× 4板/盒",
+      "price": "¥89.76",
+      "form": "片剂"
+    },
+    {
+      "id": "company_沈阳福宁药业有限公司",
+      "type": "公司",
+      "label": "沈阳福宁药业有限公司",
+      "specifications": "0.25g*10片/板×3板/盒",
+      "price": "¥65.46",
+      "form": "片剂"
+    },
+    {
+      "id": "company_海南通用三洋药业有限公司",
+      "type": "公司",
+      "label": "海南通用三洋药业有限公司",
+      "specifications": "1mg（相当于0.86mg特利加压素）*1瓶\n/盒",
+      "price": "¥15.98",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_福建省闽东力捷迅药业股份有限公司",
+      "type": "公司",
+      "label": "福建省闽东力捷迅药业股份有限公司",
+      "specifications": "1mg（相当于0.86mg特利加压素）*10\n瓶/盒",
+      "price": "¥173.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_重庆赛维药业有限公司",
+      "type": "公司",
+      "label": "重庆赛维药业有限公司",
+      "specifications": "1mg（相当于0.86mg特利加压素）*1瓶\n/盒",
+      "price": "¥17.72",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_中玉制药",
+      "type": "公司",
+      "label": "中玉制药",
+      "specifications": "1mg（相当于0.86mg特利加压素）*5瓶\n/盒（附无菌稀释溶剂5瓶）",
+      "price": "¥89.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_蓬莱诺康药业有限公司",
+      "type": "公司",
+      "label": "蓬莱诺康药业有限公司",
+      "specifications": "1mg（相当于0.86mg特利加压素）*5瓶\n/盒",
+      "price": "¥92.4",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_Dr._Reddy's_Laboratories_Ltd.",
+      "type": "公司",
+      "label": "Dr. Reddy's Laboratories Ltd.",
+      "specifications": "25mg*30粒/瓶，1瓶/盒",
+      "price": "¥31.5",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_北京金赛增医疗科技有限公司",
+      "type": "公司",
+      "label": "北京金赛增医疗科技有限公司",
+      "specifications": "25mg*14粒/板×2板/盒",
+      "price": "¥39.37",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_上海谷方盟医药科技有限公司",
+      "type": "公司",
+      "label": "上海谷方盟医药科技有限公司",
+      "specifications": "25mg*7 粒/板×4 板/盒",
+      "price": "¥73.36",
+      "form": "胶囊剂"
+    },
+    {
+      "id": "company_华润三九",
+      "type": "公司",
+      "label": "华润三九",
+      "specifications": "5ml:25mg*每盒5支",
+      "price": "¥18.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_黑龙江福和制药集团股份有限公司",
+      "type": "公司",
+      "label": "黑龙江福和制药集团股份有限公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥27.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_杭州云柏医药科技有限公司",
+      "type": "公司",
+      "label": "杭州云柏医药科技有限公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥27.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江西科睿药业有限公司",
+      "type": "公司",
+      "label": "江西科睿药业有限公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥29.95",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东罗欣药业集团股份有限公司",
+      "type": "公司",
+      "label": "山东罗欣药业集团股份有限公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥30.35",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_陕西丽彩药业有限公司",
+      "type": "公司",
+      "label": "陕西丽彩药业有限公司",
+      "specifications": "5ml:25mg*10支/盒",
+      "price": "¥61.1",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_河北一品制药股份有限公司",
+      "type": "公司",
+      "label": "河北一品制药股份有限公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥30.7",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_西安利君制药有限责任公司",
+      "type": "公司",
+      "label": "西安利君制药有限责任公司",
+      "specifications": "5ml:25mg*5支/盒",
+      "price": "¥30.85",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_安徽新世纪药业有限公司",
+      "type": "公司",
+      "label": "安徽新世纪药业有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100ml/瓶，1瓶\n/盒",
+      "price": "¥15.51",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_广西维威制药有限公司",
+      "type": "公司",
+      "label": "广西维威制药有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100mL/瓶，1瓶\n/盒",
+      "price": "¥18.46",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_山东道齐生物医药科技有限公司",
+      "type": "公司",
+      "label": "山东道齐生物医药科技有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100ml/瓶×1瓶\n/盒",
+      "price": "¥39.66",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_深圳市贝美药业有限公司",
+      "type": "公司",
+      "label": "深圳市贝美药业有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100ml/瓶，1瓶\n/盒",
+      "price": "¥47.51",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_江苏广承药业有限公司",
+      "type": "公司",
+      "label": "江苏广承药业有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100ml/瓶*1瓶/\n盒",
+      "price": "¥49.46",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_山东达因海洋生物制药股份有限公司",
+      "type": "公司",
+      "label": "山东达因海洋生物制药股份有限公司",
+      "specifications": "0.4%（100ml：0.4g）*100 mL/瓶，1\n瓶/盒",
+      "price": "¥49.97",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_浙江佰奥医药科技有限公司",
+      "type": "公司",
+      "label": "浙江佰奥医药科技有限公司",
+      "specifications": "0.4%（100ml：0.4g）*1瓶/盒",
+      "price": "¥50.8",
+      "form": "口服溶液剂"
+    },
+    {
+      "id": "company_四川普锐特药业有限公司",
+      "type": "公司",
+      "label": "四川普锐特药业有限公司",
+      "specifications": "3ml:0.63mg*10支/盒",
+      "price": "¥9.7",
+      "form": "吸入制剂"
+    },
+    {
+      "id": "company_太阳升",
+      "type": "公司",
+      "label": "太阳升",
+      "specifications": "3ml:0.63mg*3mI/支，10支/袋，1袋/\n盒",
+      "price": "¥15.7",
+      "form": "吸入制剂"
+    },
+    {
+      "id": "company_湖南华纳大药厂股份有限公司",
+      "type": "公司",
+      "label": "湖南华纳大药厂股份有限公司",
+      "specifications": "3ml:0.63mg*5支/袋×2袋/盒",
+      "price": "¥16.3",
+      "form": "吸入制剂"
+    },
+    {
+      "id": "company_江西艾施特制药有限公司",
+      "type": "公司",
+      "label": "江西艾施特制药有限公司",
+      "specifications": "3ml:0.63mg*3ml/支，5支/袋，4袋/盒",
+      "price": "¥32.99",
+      "form": "吸入制剂"
+    },
+    {
+      "id": "company_健康元药业集团股份有限公司",
+      "type": "公司",
+      "label": "健康元药业集团股份有限公司",
+      "specifications": "3ml:0.63mg*12支/袋，1袋/盒",
+      "price": "¥19.8",
+      "form": "吸入制剂\n（吸入溶液）"
+    },
+    {
+      "id": "company_重庆德诚永道医药有限公司",
+      "type": "公司",
+      "label": "重庆德诚永道医药有限公司",
+      "specifications": "5mg*14片/板*2板/盒",
+      "price": "¥19.32",
+      "form": "片剂"
+    },
+    {
+      "id": "company_湖南九典制药股份有限公司",
+      "type": "公司",
+      "label": "湖南九典制药股份有限公司",
+      "specifications": "0.1g*46包/盒",
+      "price": "¥22.54",
+      "form": "颗粒剂"
+    },
+    {
+      "id": "company_桂林华信制药有限公司",
+      "type": "公司",
+      "label": "桂林华信制药有限公司",
+      "specifications": "0.1g*30包/盒",
+      "price": "¥16.8",
+      "form": "颗粒剂"
+    },
+    {
+      "id": "company_海南赛立克药业有限公司",
+      "type": "公司",
+      "label": "海南赛立克药业有限公司",
+      "specifications": "0.2g*24包/盒",
+      "price": "¥24.24",
+      "form": "颗粒剂"
+    },
+    {
+      "id": "company_浙江金华康恩贝生物制药有限公司",
+      "type": "公司",
+      "label": "浙江金华康恩贝生物制药有限公司",
+      "specifications": "0.2g*21包/盒",
+      "price": "¥21.8",
+      "form": "颗粒剂"
+    },
+    {
+      "id": "company_浙江众延医药科技有限公司",
+      "type": "公司",
+      "label": "浙江众延医药科技有限公司",
+      "specifications": "0.1g*20袋/盒",
+      "price": "¥12.58",
+      "form": "颗粒剂"
+    },
+    {
+      "id": "company_江西赣南海欣药业股份有限公司",
+      "type": "公司",
+      "label": "江西赣南海欣药业股份有限公司",
+      "specifications": "0.1g*12袋/盒",
+      "price": "¥5.58",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_吉林四环制药有限公司",
+      "type": "公司",
+      "label": "吉林四环制药有限公司",
+      "specifications": "0.1g*6 袋/盒",
+      "price": "¥3.06",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_海南普利制药股份有限公司",
+      "type": "公司",
+      "label": "海南普利制药股份有限公司",
+      "specifications": "0.1g*0.1g*20袋/盒",
+      "price": "¥11.58",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_苏州东瑞制药有限公司",
+      "type": "公司",
+      "label": "苏州东瑞制药有限公司",
+      "specifications": "0.1g*12袋/盒",
+      "price": "¥8.98",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_济川药业集团有限公司",
+      "type": "公司",
+      "label": "济川药业集团有限公司",
+      "specifications": "0.1g*6袋/盒",
+      "price": "¥4.56",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_西南药业股份有限公司",
+      "type": "公司",
+      "label": "西南药业股份有限公司",
+      "specifications": "1ml:5mg*10支/盒",
+      "price": "¥3.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_石药集团欧意药业有限公司",
+      "type": "公司",
+      "label": "石药集团欧意药业有限公司",
+      "specifications": "0.2g*1瓶/盒",
+      "price": "¥138.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_武汉海特生物制药股份有限公司",
+      "type": "公司",
+      "label": "武汉海特生物制药股份有限公司",
+      "specifications": "0.2g*10瓶/盒",
+      "price": "¥1630.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_瑞阳制药股份有限公司",
+      "type": "公司",
+      "label": "瑞阳制药股份有限公司",
+      "specifications": "0.2g*0.2g*10瓶/盒",
+      "price": "¥1860.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_南京力博维制药有限公司",
+      "type": "公司",
+      "label": "南京力博维制药有限公司",
+      "specifications": "0.2g*5支/盒",
+      "price": "¥995.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_齐鲁制药",
+      "type": "公司",
+      "label": "齐鲁制药",
+      "specifications": "0.2g*1瓶/盒",
+      "price": "¥298.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_浙江永宁药业股份有限公司",
+      "type": "公司",
+      "label": "浙江永宁药业股份有限公司",
+      "specifications": "1g*1.0g*10瓶/盒",
+      "price": "¥110.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_重庆圣华曦药业股份有限公司",
+      "type": "公司",
+      "label": "重庆圣华曦药业股份有限公司",
+      "specifications": "0.5g*10瓶/盒",
+      "price": "¥70.5",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_哈药集团制药总厂",
+      "type": "公司",
+      "label": "哈药集团制药总厂",
+      "specifications": "1g*10支/盒",
+      "price": "¥125.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_海南全星制药有限公司",
+      "type": "公司",
+      "label": "海南全星制药有限公司",
+      "specifications": "0.5g*10瓶/盒",
+      "price": "¥75.2",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东达冠医药科技有限公司",
+      "type": "公司",
+      "label": "山东达冠医药科技有限公司",
+      "specifications": "2g*10瓶/盒",
+      "price": "¥222.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江西博雅欣和制药有限公司",
+      "type": "公司",
+      "label": "江西博雅欣和制药有限公司",
+      "specifications": "50mg*10片/板*1板/盒",
+      "price": "¥47.98",
+      "form": "片剂"
+    },
+    {
+      "id": "company_江苏奥赛康药业有限公司",
+      "type": "公司",
+      "label": "江苏奥赛康药业有限公司",
+      "specifications": "10mg*14袋/盒",
+      "price": "¥18.9",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_浙江尔婴药品有限公司",
+      "type": "公司",
+      "label": "浙江尔婴药品有限公司",
+      "specifications": "40mg*7袋/盒",
+      "price": "¥52.18",
+      "form": "干混悬剂"
+    },
+    {
+      "id": "company_Cipla_Ltd.",
+      "type": "公司",
+      "label": "Cipla Ltd.",
+      "specifications": "20mg*20mg*14袋/盒",
+      "price": "¥62.28",
+      "form": "口服混悬剂"
+    },
+    {
+      "id": "company_东北制药集团沈阳第一制药有限公司",
+      "type": "公司",
+      "label": "东北制药集团沈阳第一制药有限公司",
+      "specifications": "5ml:1g*2支/盒",
+      "price": "¥3.86",
+      "form": "注射液"
+    },
+    {
+      "id": "company_山东玉满坤生物科技有限公司",
+      "type": "公司",
+      "label": "山东玉满坤生物科技有限公司",
+      "specifications": "5ml:1g*5支/盒",
+      "price": "¥9.9",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_广东鼎信医药科技有限公司",
+      "type": "公司",
+      "label": "广东鼎信医药科技有限公司",
+      "specifications": "15ml:3g*15ml:3g/支*5支/盒",
+      "price": "¥28.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_上海现代哈森",
+      "type": "公司",
+      "label": "上海现代哈森",
+      "specifications": "5ml:1g*5支/盒",
+      "price": "¥14.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_山东新华制药股份有限公司",
+      "type": "公司",
+      "label": "山东新华制药股份有限公司",
+      "specifications": "5ml:1g*5支/盒",
+      "price": "¥16.3",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_珠海和凡医药股份有限公司",
+      "type": "公司",
+      "label": "珠海和凡医药股份有限公司",
+      "specifications": "5ml:1g*5支/盒",
+      "price": "¥16.45",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_江苏恒瑞医药股份有限公司",
+      "type": "公司",
+      "label": "江苏恒瑞医药股份有限公司",
+      "specifications": "▲50mg*1瓶/盒",
+      "price": "¥95.6",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_辽宁海思科制药有限公司",
+      "type": "公司",
+      "label": "辽宁海思科制药有限公司",
+      "specifications": "▲50mg*1瓶/盒",
+      "price": "¥132.0",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_海南海灵化学制药有限公司",
+      "type": "公司",
+      "label": "海南海灵化学制药有限公司",
+      "specifications": "▲50mg*1瓶/盒",
+      "price": "¥148.88",
+      "form": "注射剂"
+    },
+    {
+      "id": "company_珠海润都制药股份有限公司",
+      "type": "公司",
+      "label": "珠海润都制药股份有限公司",
+      "specifications": "20mg*14片/板×2板/袋×1袋/盒",
+      "price": "¥6.15",
+      "form": "片剂"
+    },
+    {
+      "id": "company_重庆药友制药有限责任公司",
+      "type": "公司",
+      "label": "重庆药友制药有限责任公司",
+      "specifications": "20mg*30片/瓶",
+      "price": "¥8.94",
+      "form": "片剂"
+    },
+    {
+      "id": "company_晋城海斯制药有限公司",
+      "type": "公司",
+      "label": "晋城海斯制药有限公司",
+      "specifications": "20mg*10片/板 × 2板/盒",
+      "price": "¥6.2",
+      "form": "片剂"
+    },
+    {
+      "id": "company_上海安必生制药技术有限公司",
+      "type": "公司",
+      "label": "上海安必生制药技术有限公司",
+      "specifications": "20mg*28片/瓶",
+      "price": "¥11.98",
+      "form": "片剂"
+    },
+    {
+      "id": "company_江西山香药业有限公司",
+      "type": "公司",
+      "label": "江西山香药业有限公司",
+      "specifications": "▲10mg*7片/板，4板/盒",
+      "price": "¥7.38",
+      "form": "片剂"
+    }
+  ],
+  "links": [
+    {
+      "source": "drug_1",
+      "target": "company_山东朗诺制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_1",
+      "target": "company_岳阳新华达制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_1",
+      "target": "company_万特制药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_1",
+      "target": "company_常州四药制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_1",
+      "target": "company_上海上药中西制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_1",
+      "target": "company_成都康弘药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_河南润弘制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_天方药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_成都倍特药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_杭州民生药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_北京京丰制药集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_国药集团国瑞药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_湖北兴华制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_2",
+      "target": "company_嘉实",
+      "type": "供应"
+    },
+    {
+      "source": "drug_3",
+      "target": "company_广州一品红制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_3",
+      "target": "company_湖北长联杜勒制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_3",
+      "target": "company_武汉华龙生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_3",
+      "target": "company_国药集团容生制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_4",
+      "target": "company_山东方明药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_4",
+      "target": "company_上海旭东海普药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_4",
+      "target": "company_杭州和泽坤元药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_4",
+      "target": "company_山东北大高科华泰制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_5",
+      "target": "company_鲁南贝特制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_5",
+      "target": "company_厦门恩成制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_5",
+      "target": "company_浙江花园药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_5",
+      "target": "company_北京百奥药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_5",
+      "target": "company_重庆华森制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_国药集团致君",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_安庆回音必制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_江苏诺泰澳赛诺生物制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_江苏万高药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_扬子江药业集团上海海尼药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_重庆华森制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_南京正大天晴制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_6",
+      "target": "company_Aurobindo_Pharma_Limited",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_宁波美舒医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_江苏万高药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_浙江华海药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_上海现代制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_华润赛科药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_北京元延医药科技股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_7",
+      "target": "company_浙江诺得药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_湖北津药药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_华润双鹤利民药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_北京金城泰尔制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_山东华鲁制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_湖北科伦药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_广东赛烽医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_亚宝药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_海口天行健药物研究有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_石家庄四药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_8",
+      "target": "company_济南辰欣医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_四川国瑞药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_广东嘉博制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_广州新济药业科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_西安力邦制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_江苏盈科生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_9",
+      "target": "company_辰欣药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_10",
+      "target": "company_扬子江药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_10",
+      "target": "company_广东众生药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_10",
+      "target": "company_齐鲁制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_10",
+      "target": "company_北京诺思兰德生物技术股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_10",
+      "target": "company_沈阳兴齐眼药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_内蒙古白医制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_远大医药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_广东赛烽医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_湖北神州华瑞医药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_扬州中宝药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_北京阜康仁生物制药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_安徽长江药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_吉林振澳制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_弘和制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_11",
+      "target": "company_合肥亿帆生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_江苏晨牌药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_苏州中化药品工业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_浙江海翔药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_北京双鹭药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_海南皇隆制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_12",
+      "target": "company_石家庄市华新药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_13",
+      "target": "company_福安药业集团宁波天衡制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_13",
+      "target": "company_湖南埃威格林医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_13",
+      "target": "company_浙江仙琚制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_13",
+      "target": "company_宜昌人福药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_正大天晴药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_江苏豪森药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_山东新时代药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_齐鲁制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_杭州九源基因工程有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_14",
+      "target": "company_四川汇宇制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_辰欣药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_山东齐都药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_海南倍特药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_华仁药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_华夏生生药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_北京布霖生物科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_15",
+      "target": "company_湖北津药药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_16",
+      "target": "company_景时",
+      "type": "供应"
+    },
+    {
+      "source": "drug_16",
+      "target": "company_河北龙海药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_16",
+      "target": "company_四川科伦药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_16",
+      "target": "company_齐鲁制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_16",
+      "target": "company_青岛黄海制药有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_辉凌制药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_苏州天马医药集团天吉生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_南京康舟医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_辰欣药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_南京星银药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_深圳翰宇药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_17",
+      "target": "company_海南皇隆制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_长春澜江医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_南京海纳医药科技股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_Hetero_Labs_Limited",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_华润双鹤药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_成都利尔药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_成都苑东生物制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_上海奥科达医药科技股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_18",
+      "target": "company_上海上药第一生化药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_常州制药厂有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_扬子江药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_江苏豪森药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_北京双鹭药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_齐鲁制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_四川美大康华康药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_正大天晴药业集团南京顺欣制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_19",
+      "target": "company_Dr.Reddy`s_Laboratories_Limited",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_天津金耀药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_石家庄凯达生物工程有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_扬州中宝药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_湖南科伦制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_上海禾丰制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_江苏华阳制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_20",
+      "target": "company_海南倍特药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_21",
+      "target": "company_北京福元医药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_21",
+      "target": "company_华益泰康药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_21",
+      "target": "company_上海宣泰医药科技股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_21",
+      "target": "company_深圳信立泰药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_海南紫程众投生物科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_山东齐都药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_河北天成药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_仁合益康集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_湖北欣泽霏药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_华润双鹤利民药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_湖南科伦制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_海南倍特药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_22",
+      "target": "company_华夏生生药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_23",
+      "target": "company_山东朗诺制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_23",
+      "target": "company_上海汇伦江苏药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_23",
+      "target": "company_华润赛科药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_23",
+      "target": "company_海南万玮制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_23",
+      "target": "company_浙江华海药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_上海禾丰制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_康普药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_江苏恒新药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_远大生命科学",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_南京新百药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_成都倍特药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_成都市海通药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_南京恒道医药科技股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_厦门紫旭医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_24",
+      "target": "company_再维药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_25",
+      "target": "company_湖南明瑞制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_25",
+      "target": "company_南京正大天晴制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_25",
+      "target": "company_青神虹豪制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_25",
+      "target": "company_沈阳华泰药物研究有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_25",
+      "target": "company_沈阳福宁药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_苏州天马医药集团天吉生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_海南通用三洋药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_深圳翰宇药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_福建省闽东力捷迅药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_南京星银药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_重庆赛维药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_中玉制药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_海南皇隆制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_26",
+      "target": "company_蓬莱诺康药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_27",
+      "target": "company_Dr._Reddy's_Laboratories_Ltd.",
+      "type": "供应"
+    },
+    {
+      "source": "drug_27",
+      "target": "company_北京金赛增医疗科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_27",
+      "target": "company_北京百奥药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_27",
+      "target": "company_上海谷方盟医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_石家庄四药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_华润三九",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_黑龙江福和制药集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_杭州云柏医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_江西科睿药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_山东罗欣药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_华夏生生药业",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_陕西丽彩药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_河北一品制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_28",
+      "target": "company_西安利君制药有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_安徽新世纪药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_广西维威制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_长春澜江医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_湖北欣泽霏药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_山东道齐生物医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_深圳市贝美药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_江苏广承药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_山东达因海洋生物制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_29",
+      "target": "company_浙江佰奥医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_仁合益康集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_四川普锐特药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_太阳升",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_扬州中宝药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_湖南华纳大药厂股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_江西艾施特制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_健康元药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_30",
+      "target": "company_扬子江药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_31",
+      "target": "company_山东新时代药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_31",
+      "target": "company_北京百奥药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_31",
+      "target": "company_江苏万高药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_31",
+      "target": "company_重庆德诚永道医药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_32",
+      "target": "company_湖南九典制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_32",
+      "target": "company_桂林华信制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_32",
+      "target": "company_海南赛立克药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_32",
+      "target": "company_浙江金华康恩贝生物制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_32",
+      "target": "company_浙江众延医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_石家庄四药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_江西赣南海欣药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_吉林四环制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_海南普利制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_西安利君制药有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_苏州东瑞制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_济川药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_成都倍特药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_34",
+      "target": "company_宜昌人福药业有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_河南润弘制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_国药集团容生制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_西南药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_辰欣药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_湖北津药药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_天津金耀药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_35",
+      "target": "company_海南倍特药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_石家庄四药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_扬子江药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_石药集团欧意药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_武汉海特生物制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_瑞阳制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_南京力博维制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_南京正大天晴制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_36",
+      "target": "company_齐鲁制药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_浙江永宁药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_重庆圣华曦药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_哈药集团制药总厂",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_海南全星制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_海南通用三洋药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_山东罗欣药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_37",
+      "target": "company_山东达冠医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_38",
+      "target": "company_深圳信立泰药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_38",
+      "target": "company_扬子江药业集团有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_38",
+      "target": "company_海南通用三洋药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_38",
+      "target": "company_江西博雅欣和制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_39",
+      "target": "company_江苏奥赛康药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_39",
+      "target": "company_北京福元医药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_39",
+      "target": "company_浙江尔婴药品有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_39",
+      "target": "company_Cipla_Ltd.",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_东北制药集团沈阳第一制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_山东玉满坤生物科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_广东鼎信医药科技有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_湖北津药药业股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_海南全星制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_上海现代哈森",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_山东新华制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_40",
+      "target": "company_珠海和凡医药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_广州一品红制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_江苏恒瑞医药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_正大天晴药业集团股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_辽宁海思科制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_齐鲁制药",
+      "type": "供应"
+    },
+    {
+      "source": "drug_41",
+      "target": "company_海南海灵化学制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_珠海润都制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_重庆药友制药有限责任公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_晋城海斯制药有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_山东新华制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_上海安必生制药技术有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_湖南九典制药股份有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_江西山香药业有限公司",
+      "type": "供应"
+    },
+    {
+      "source": "drug_42",
+      "target": "company_济川药业集团有限公司",
+      "type": "供应"
+    }
+  ]
+}
